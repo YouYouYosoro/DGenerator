@@ -7,12 +7,12 @@ character_style = [ "女大学生",]
 language_style = [ "活泼", "专业", "温柔",]
 
 [PERSONALINFO]
-generator_model = [ "moonshot-v1-8k",]
+generator_model = [ "moonshot-v1-8k", "glm-4-flash", "deepseek-chat", "Doubao-lite-32k", "Qwen-Turbo", "generalv3.5",]
 gender = "男"
 age = 20
-height = 170.0
-weight = 50.0
-bmi = 17.3
+height = 179.0
+weight = 84.0
+bmi = 26.22
 medical_history_bool = "无"
 medical_history = "高血糖"
-target = ""
+target = "减肥"
