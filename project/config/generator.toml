@@ -1,0 +1,18 @@
+[GENERATOR]
+generator_model = [ "moonshot-v1-8k", "glm-4-flash", "deepseek-chat", "Doubao-lite-32k", "Qwen-Turbo", "generalv3.5",]
+main_areas = [ "女士", "化妆品",]
+needs = "给我写一份白桦树口红的营销文案"
+key_words = "精致，精准色号"
+character_style = [ "女大学生",]
+language_style = [ "活泼", "专业", "温柔",]
+
+[PERSONALINFO]
+generator_model = [ "moonshot-v1-8k",]
+gender = "男"
+age = 20
+height = 170.0
+weight = 50.0
+bmi = 17.3
+medical_history_bool = "无"
+medical_history = "高血糖"
+target = ""

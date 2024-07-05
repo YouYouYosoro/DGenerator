@@ -1,0 +1,29 @@
+[KIMI]
+kimi_key = "sk-fDGsChYiGQjJsX6yLhuOU1i5SXjmobR4QJDPAbbSZUPztCQS"
+kimi_base = "https://api.moonshot.cn/v1"
+
+[DEEPSEEK]
+deepseek_key = "sk-62efc71a7b434438a56647a74439beb1"
+deepseek_base = "https://api.deepseek.com"
+
+[CHATGLM]
+chatglm_key = "e5abe90cbbc1231b7719bfcbbc2fe552.DMHUgId6Sv5Grh1e"
+chatglm_base = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
+
+[Doubao-lite-32k]
+doubao_access_key = "AKLTYTRlMjgxODk2NzJjNGFlN2FjZmUxNTk2ZjMzNzE1YWE"
+doubao_secret_access_key = "WmpObU1HWTRNakprT1RWbU5HTTVOV0UwTWpOaVpUZ3pNMlExTkRaak9EWQ=="
+doubao_key = "df8ea52f-9ab9-4b50-9449-f85977b0aa43"
+doubao_endpoint = "ep-20240701081459-gkc5n"
+
+[Qwen-Turbo]
+qwen_app_id = "8dad373b42cf44a783ec03430bda00a0"
+qwen_key = "sk-2fe61326b0ed4cb297b252a5a64c7192"
+
+[XunFei-XingHuo]
+xing_huo_appid = "c450c96c"
+xing_huo_key = "fa45d5f83bbf0877cd955d6ad177c852"
+xing_huo_secret_key = "YjBhNjhlOGVlMWIzODUzNTdkOGJiMzAy"
+xing_huo_base = "https://spark-api-open.xf-yun.com/v1"
+
+
